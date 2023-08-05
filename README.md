@@ -12,7 +12,7 @@ I'm a Fresh Graduate of Geophysics Engineering with a keen interest in data scie
 - Programming languages: Python, SQL
 - Machine learning frameworks: Scikit-learn
 - Data visualization tools: Matplotlib, Seaborn, Tableau
-- Big data technologies: Hadoop, Power BI
+- Big data technologies: Loker Studio, Power BI
 - Statistical analysis and hypothesis testing
 
 ## Current Learning
